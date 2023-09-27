@@ -1,0 +1,1 @@
+Debug/main.cpp.o Debug/COMPANY.cpp.o Debug/FATHER.cpp.o Debug/DAUGHTER.cpp.o Debug/FAMILY.cpp.o Debug/PERSON.cpp.o Debug/SON.cpp.o Debug/MOTHER.cpp.o   

@@ -1,0 +1,4 @@
+-ID:\file_cpp\file_cpp\INCOME_TRACKER\PROJECT
+-std=c++17
+-target
+

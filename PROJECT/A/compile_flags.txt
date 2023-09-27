@@ -1,0 +1,4 @@
+-ID:\file_cpp\file_cpp\Project\A
+-std=c++17
+-target
+

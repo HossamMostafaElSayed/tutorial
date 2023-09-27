@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A\\main.cpp",
+  "directory": "C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A",
+  "command": "g++ -c \"C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A\\main.cpp\" -o \"C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A\\main.cpp\".o -target x86_64-w64-mingw32 -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A\\Person.h",
+  "directory": "C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A",
+  "command": "g++ -c \"C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A\\Person.h\" -o \"C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A\\Person.h\".o -target x86_64-w64-mingw32 -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A\\Person.cpp",
+  "directory": "C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A",
+  "command": "g++ -c \"C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A\\Person.cpp\" -o \"C:\\Users\\cdc\\Desktop\\C++ project\\INCOME_TRACKER\\PROJECT\\A\\Person.cpp\".o -target x86_64-w64-mingw32 -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }]
